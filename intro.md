@@ -1,5 +1,5 @@
 #title!
-##subtitle
+##100% new subtitle
 * one
 * two
 * three _italic_
