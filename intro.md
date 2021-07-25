@@ -6,4 +6,4 @@
 ---
 ##### just to check
 
-* IMPROVMENT IN intro_improvement branch
+* IMPROVMENT IN intro_improvement branch (DELETE IT)
